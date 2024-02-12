@@ -1,0 +1,14 @@
+C:\Users\erikd\OneDrive\Desktop\repos\OnlyUniqueElements\OnlyUniqueElements\bin\Debug\net8.0\OnlyUniqueElements.exe
+C:\Users\erikd\OneDrive\Desktop\repos\OnlyUniqueElements\OnlyUniqueElements\bin\Debug\net8.0\OnlyUniqueElements.deps.json
+C:\Users\erikd\OneDrive\Desktop\repos\OnlyUniqueElements\OnlyUniqueElements\bin\Debug\net8.0\OnlyUniqueElements.runtimeconfig.json
+C:\Users\erikd\OneDrive\Desktop\repos\OnlyUniqueElements\OnlyUniqueElements\bin\Debug\net8.0\OnlyUniqueElements.dll
+C:\Users\erikd\OneDrive\Desktop\repos\OnlyUniqueElements\OnlyUniqueElements\bin\Debug\net8.0\OnlyUniqueElements.pdb
+C:\Users\erikd\OneDrive\Desktop\repos\OnlyUniqueElements\OnlyUniqueElements\obj\Debug\net8.0\OnlyUniqueElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikd\OneDrive\Desktop\repos\OnlyUniqueElements\OnlyUniqueElements\obj\Debug\net8.0\OnlyUniqueElements.AssemblyInfoInputs.cache
+C:\Users\erikd\OneDrive\Desktop\repos\OnlyUniqueElements\OnlyUniqueElements\obj\Debug\net8.0\OnlyUniqueElements.AssemblyInfo.cs
+C:\Users\erikd\OneDrive\Desktop\repos\OnlyUniqueElements\OnlyUniqueElements\obj\Debug\net8.0\OnlyUniqueElements.csproj.CoreCompileInputs.cache
+C:\Users\erikd\OneDrive\Desktop\repos\OnlyUniqueElements\OnlyUniqueElements\obj\Debug\net8.0\OnlyUniqueElements.dll
+C:\Users\erikd\OneDrive\Desktop\repos\OnlyUniqueElements\OnlyUniqueElements\obj\Debug\net8.0\refint\OnlyUniqueElements.dll
+C:\Users\erikd\OneDrive\Desktop\repos\OnlyUniqueElements\OnlyUniqueElements\obj\Debug\net8.0\OnlyUniqueElements.pdb
+C:\Users\erikd\OneDrive\Desktop\repos\OnlyUniqueElements\OnlyUniqueElements\obj\Debug\net8.0\OnlyUniqueElements.genruntimeconfig.cache
+C:\Users\erikd\OneDrive\Desktop\repos\OnlyUniqueElements\OnlyUniqueElements\obj\Debug\net8.0\ref\OnlyUniqueElements.dll
